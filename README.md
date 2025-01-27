@@ -1,3 +1,7 @@
+Stacked-Generalization-for-Insurance-Purchase-Prediction
+
+
+
 The Caravan Insurance dataset, sourced from the CoIL 2000 data
 mining competition, involves a binary classification challenge:
 predicting whether a customer is likely to buy a caravan insurance
